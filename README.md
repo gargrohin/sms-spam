@@ -1,2 +1,1 @@
-# sms-spam
-A test project that identifies spam text messages.
+data: this branch simply has the required preprocess code and the dat used(converted to .pkl).
